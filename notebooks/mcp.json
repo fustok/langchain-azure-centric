@@ -1,0 +1,16 @@
+{
+	"servers": {
+		"my-mcp-learn": {
+			"url": "https://apim-pcm-002.azure-api.net/learn",
+			"headers": {
+				"Ocp-Apim-Subscription-Key": "xxxyyyzzz"
+			},
+			"type": "http"
+		},
+		"my-mcp-weather": {
+			"url": "https://apim-pcm-002.azure-api.net/weather",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
