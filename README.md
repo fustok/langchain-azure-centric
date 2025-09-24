@@ -46,7 +46,7 @@ os.environ["AZURE_SEARCH_API_KEY"] = "your_search_api_key"
 
 ---
 
-## 🧠 Modern LangChain Patterns (2023)
+## 🧠 Modern LangChain Patterns (2025)
 - LangGraph agents replacing legacy AgentExecutor patterns
 - Azure Application Insights monitoring with OpenTelemetry integration
 - Comprehensive cost tracking for Azure OpenAI usage
