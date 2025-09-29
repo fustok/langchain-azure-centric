@@ -1,8 +1,6 @@
 # langchain-azure-centric
 Azure AI-centric with complete LangChain integration.
 
-Based on the image you provided, here's a `README.md` file suitable for a GitHub repository that showcases an Azure-integrated LangChain project:
-
 ---
 
 # Azure LangChain Integration
