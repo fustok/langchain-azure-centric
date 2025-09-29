@@ -1,5 +1,6 @@
-# langchain-azure-centric
+# LangChain / LangGraph Azure Centric
 Azure AI-centric with complete LangChain integration.
+Azure Observability, Azure API Management & MCP policies for Security
 
 Based on the image you provided, here's a `README.md` file suitable for a GitHub repository that showcases an Azure-integrated LangChain project:
 
