@@ -1,5 +1,7 @@
-# langchain-azure-centric
+# LangChain-LangGraph Azure Centric
 Azure AI-centric with complete LangChain integration.
+Azure Observability with Application Insights and Kusto queries. 
+Azure API Management & MCP policies integration for security.
 
 ---
 
